@@ -1,4 +1,5 @@
 # M3U8批量下载器
+### 上传图片好像有点问题，看这里：https://gitee.com/nice__baby/m3-u8-batch-downloader/blob/master/README.md#
 
 #### 介绍
 分享下载器+自己写的自动填写小功能
